@@ -1,0 +1,19 @@
+{
+    "name": "rizky/php-composer-hello",
+    "description": "Library Composer Hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rizky\\Belajar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rizkyraihan4",
+            "email": "muhammadrizkyraihan4@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
